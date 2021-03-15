@@ -23,8 +23,13 @@ When we look to space we see billions of stars and planets.
 This project aims explore questions of how an individual relates to the global.
 
 ## MVP
+Users should be able to:
+1) view educational content about space provided via NASA APIs
+2) move to different parts of the content via some interaction with the page (e.g. searching content by date)
+
 Display an image from 3 different apis, at the top level component. 
 ![MVP and extension diagram](./imgs/mvp-diagram.jpg)
+
 
 
 ### APIs
