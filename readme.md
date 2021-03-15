@@ -1,5 +1,4 @@
-# Our Place in Space
-
+###Group Project using NASA APIs
 ## SETUP
 
 ## CLIENT SIDE
