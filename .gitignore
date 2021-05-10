@@ -7,6 +7,7 @@ client/.DS_Store
 client/node_modules
 client//dist
 client/src/assets/APOD-API-Key.js
+client/src/assets/MARS_API_KEY.js
 
 
 # local env files
